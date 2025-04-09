@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello! I'm Furkan 
 
-<!--
-**furkancannkrks/furkancannkrks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering student. I am progressing in the field of web development. I am currently learning HTML, CSS, JavaScript and ASP.NET Core.
 
-Here are some ideas to get you started:
+## 🚀 Technologies I have learnt:
+- HTML / CSS / Bootstrap
+- JavaScript (basic level)
+- SQL (database queries)
+- React & ASP.NET Core (course continues)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Goals:
+- Developing full stack projects in Frontend + Backend
+- To specialise in the backend area
+- Contributing to open source projects
+
+## 📫 Contact Me:
+- [LinkedIn](https://www.linkedin.com/in/furkan-can-karaku%C5%9F-08b335356/) ← put your link here
+- E-mail: furkancankarakus2004@gmail.com
