@@ -15,4 +15,4 @@ I am a Computer Engineering student. I am progressing in the field of web develo
 
 ## 📫 Contact Me:
 - [LinkedIn](https://www.linkedin.com/in/furkan-can-karaku%C5%9F-08b335356/) ← put your link here
-- E-mail: furkancankarakus2004@gmail.com
+- E-mail: furkancannkarakus@gmail.com
