@@ -10,4 +10,4 @@ at the intersection of backend systems and the web.
 - Tools: Git, WebRTC
 
 📫 furkancannkarakus@gmail.com
-🔗 [linkedin.com/in/furkan-can-karakus](www.linkedin.com/in/furkan-can-karakus)
+🔗 [linkedin.com/in/furkan-can-karakus](https://www.linkedin.com/in/furkan-can-karakus)
